@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-04-01T15:16:59.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="Vd2hlIf4HOChuu5nDIwM" version="24.2.1" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="820" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="391" y="130" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-2" value="Jednostka Centralna Kas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="90" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="657" y="130" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-7" value="Punkt Kontroli Sprzedaży" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="90" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="207" y="400" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-10" value="Kasa Samoobsługowa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="360" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-19" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="391" y="400" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-20" value="Kasa Samoobsługowa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="360" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-22" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="567" y="400" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-23" value="Kasa Samoobsługowa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="360" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="f6qz-B9WPOFTQPH3NQY8-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f6qz-B9WPOFTQPH3NQY8-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413.86" y="320" as="sourcePoint" />
+            <mxPoint x="413.86" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.86" y="320" as="sourcePoint" />
+            <mxPoint x="589.86" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-29" value="Wysyła polecenia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-30" value="Wysyła informacje o stanie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-31" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="150" as="sourcePoint" />
+            <mxPoint x="620" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6qz-B9WPOFTQPH3NQY8-32" value="Przekazuje informacje o stanie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="60" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

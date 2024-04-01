@@ -28,17 +28,17 @@ Przez "usprawnienie" rozumiemy:
 ### Jak?
 SKSO umożliwiają wykonanie powyższego, dzięki zastosowaniu szeregu rozwiązań hardwarowych oraz softwarowych. Wstępna wersja systemu wygląda następująco: 
 
-![alt text](uproszczonyDiagramElemetnowSystemu.png)
+![alt text](Diagrams/uproszczonyDiagramElemetnowSystemu.png)
 
-* **Kasa samoobsługowa** - Głównym jego zadaniem jest sprzedaż towarów z wykorzystaniem sensorów (skaner, waga). Użytkownik komunikuje się z kasą za pomocą ekranu dotykowego. Aby ograniczyć koszty oraz zwiększyć możliwości rozbudowy, KSO posiada ograniczoną moc obliczeniową oraz niewielką pamięć wewnętrzną. Kasa komunikuje się z peryferiami takimi jak kasy fiskalne czy terminale płatności kartą, które same w sobie nie są częścią systemu. KSO wysyła informacje o swoim aktualnym stanie (zeskanowanie towaru, status płatności) do JCK. Kasa przyjmuje polecenia od JCK.
+* **Kasa samoobsługowa** - Głównym jej zadaniem jest sprzedaż towarów z wykorzystaniem sensorów (skaner, waga). Użytkownik komunikuje się z kasą za pomocą ekranu dotykowego. Aby ograniczyć koszty oraz zwiększyć możliwości rozbudowy, KSO posiada ograniczoną moc obliczeniową oraz niewielką pamięć wewnętrzną. Kasa komunikuje się z peryferiami takimi jak kasy fiskalne czy terminale płatności kartą, które same w sobie nie są częścią systemu. KSO wysyła informacje o swoim aktualnym stanie (zeskanowanie towaru, status płatności) do JCK. Kasa przyjmuje polecenia od JCK.
 
-* **Jednostka centralna kas** - mózg całego systemu. Z tego punktu możliwy jest podgląd utargu, czy zarządzanie funkcjonowaniem poszczególnych KSO. JCK pobiera dane ze wszystkich SKO, nastepnie je przekształca do formy przydatnej dla pracowników sklepu. JCK przekazuje niektóre z tych danych do PKS. W przypadku sieci z wieloma lokalizacjami możliwe jest także wysyłanie danych w czasie rzeczywistym do "centrali".
+* **Jednostka centralna kas** - mózg całego systemu. Z tego punktu możliwy jest podgląd utargu, czy zarządzanie funkcjonowaniem poszczególnych KSO. JCK pobiera dane ze wszystkich KSO, nastepnie je przekształca do formy przydatnej dla pracowników sklepu. JCK przekazuje niektóre z tych danych do PKS. W przypadku sieci z wieloma lokalizacjami możliwe jest także wysyłanie danych w czasie rzeczywistym do "centrali".
 
 * **Punkt kontroli sprzedaży** - Umożliwia integrację z systemem kamer bezpieczeństwa wyświetlając informacje odnośnie aktualnie skanowanych towarów oraz statusu płatności. Dane pobiera z JCK.
 
 ### Gdzie?
 
-SKO musi zostać umieszczone w specjalnie do tego przygotowanej strefie, zazwyczaj znajdującej się obok tradycyjnych kas sprzedażowych. Punkt taki musi posiadać stały dostęp do prądu. Co więcej, KSO musi zostać wyposażone w dostępny na stanie sklepu terminal do przyjmowania płatności kartą oraz kasę fiskalną. Zalecane jest także umieszczenie kamery monitoringu bezpośrednio nad strefą kasowania towarów. 
+KSO musi zostać umieszczone w specjalnie do tego przygotowanej strefie, zazwyczaj znajdującej się obok tradycyjnych kas sprzedażowych. Punkt taki musi posiadać stały dostęp do prądu. Co więcej, KSO musi zostać wyposażone w dostępny na stanie sklepu terminal do przyjmowania płatności kartą oraz kasę fiskalną. Zalecane jest także umieszczenie kamery monitoringu bezpośrednio nad strefą kasowania towarów. 
 
 JCK umieszczone jest na zapleczu sklepu, w miejscu dogodnym dla managera. 
 
@@ -48,10 +48,10 @@ Każde KSO musi zostać połączone z fizycznym kablem do JCK.
 JCK i PKS posiadają dostep do Internetu.
 
 ### Kto?
-SCO przewiduje następujące osoby korzystające z systemu:
+SKSO przewiduje następujące osoby korzystające z systemu:
 1. **Klient sklepu** - umożliwia się mu dokonywanie zakupów poprzez skanowanie towarów oraz obsługę płatności.
 2. **Pracownik sklepu** - umożliwia się mu to, co klientowi sklepu. Dodatkowo pracownik może wycofać ówcześnie zeskanowane towary, potwierdzić wiek osoby kupującej, włączać/wyłączać SCO.
-3. **Manager sklepu** -  umożliwia się mu to, co pracownikowi sklepu. Dodatkowo manager może zdalnie zmieniać ceny produktów oraz kontrolować utarg KSO. Stacjonarnie może podpinać podzespoły takie jak terminale czy kasy fiskalne. 
+3. **Manager sklepu** - umożliwia się mu to, co pracownikowi sklepu. Dodatkowo manager może zdalnie zmieniać ceny produktów oraz kontrolować utarg KSO. Stacjonarnie może podpinać podzespoły takie jak terminale czy kasy fiskalne. 
 4. **Pracownik ochrony sklepu** - umożliwia się mu zdalne kontrolowanie zeskanowanych towarów w czasie rzeczywistym.
 5. **Serwisant** - umożliwia się mu wszystko to, co pozostałym kategoriom. Dodatkowo serwisant może uzyskać dostep do logów generowanych przez system.
 
